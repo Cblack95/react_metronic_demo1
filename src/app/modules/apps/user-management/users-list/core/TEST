@@ -1,0 +1,601 @@
+{
+    "data": [{
+        "id": 1,
+        "name": "Emma Smith",
+        "avatar": "avatars\/300-6.jpg",
+        "email": "smith@kpmg.com",
+        "position": "Art Director",
+        "role": "Administrator",
+        "last_login": "Yesterday",
+        "two_steps": false,
+        "joined_day": "10 Nov 2022, 9:23 pm",
+        "online": false
+    }, {
+        "id": 2,
+        "name": "Melody Macy",
+        "initials": {
+            "label": "M",
+            "state": "danger"
+        },
+        "email": "melody@altbox.com",
+        "position": "Marketing Analytic",
+        "role": "Analyst",
+        "last_login": "20 mins ago",
+        "two_steps": true,
+        "joined_day": "10 Nov 2022, 8:43 pm",
+        "online": false
+    }, {
+        "id": 3,
+        "name": "Max Smith",
+        "avatar": "avatars\/300-1.jpg",
+        "email": "max@kt.com",
+        "position": "Software Enginer",
+        "role": "Developer",
+        "last_login": "3 days ago",
+        "two_steps": false,
+        "joined_day": "22 Sep 2022, 8:43 pm",
+        "online": false
+    }, {
+        "id": 4,
+        "name": "Sean Bean",
+        "avatar": "avatars\/300-5.jpg",
+        "email": "sean@dellito.com",
+        "position": "Web Developer",
+        "role": "Support",
+        "last_login": "5 hours ago",
+        "two_steps": true,
+        "joined_day": "21 Feb 2022, 6:43 am",
+        "online": false
+    }, {
+        "id": 5,
+        "name": "Brian Cox",
+        "avatar": "avatars\/300-25.jpg",
+        "email": "brian@exchange.com",
+        "position": "UI\/UX Designer",
+        "role": "Developer",
+        "last_login": "2 days ago",
+        "two_steps": true,
+        "joined_day": "10 Mar 2022, 9:23 pm",
+        "online": false
+    }, {
+        "id": 6,
+        "name": "Mikaela Collins",
+        "initials": {
+            "label": "M",
+            "state": "warning"
+        },
+        "email": "mik@pex.com",
+        "position": "Head Of Marketing",
+        "role": "Administrator",
+        "last_login": "5 days ago",
+        "two_steps": false,
+        "joined_day": "20 Dec 2022, 10:10 pm",
+        "online": false
+    }, {
+        "id": 7,
+        "name": "Francis Mitcham",
+        "avatar": "avatars\/300-9.jpg",
+        "email": "f.mit@kpmg.com",
+        "position": "Software Arcitect",
+        "role": "Trial",
+        "last_login": "3 weeks ago",
+        "two_steps": false,
+        "joined_day": "10 Nov 2022, 6:43 am",
+        "online": false
+    }, {
+        "id": 8,
+        "name": "Olivia Wild",
+        "initials": {
+            "label": "O",
+            "state": "danger"
+        },
+        "email": "olivia@corpmail.com",
+        "position": "System Admin",
+        "role": "Administrator",
+        "last_login": "Yesterday",
+        "two_steps": false,
+        "joined_day": "19 Aug 2022, 11:05 am",
+        "online": false
+    }, {
+        "id": 9,
+        "name": "Neil Owen",
+        "initials": {
+            "label": "N",
+            "state": "primary"
+        },
+        "email": "owen.neil@gmail.com",
+        "position": "Account Manager",
+        "role": "Analyst",
+        "last_login": "20 mins ago",
+        "two_steps": true,
+        "joined_day": "25 Oct 2022, 10:30 am",
+        "online": false
+    }, {
+        "id": 10,
+        "name": "Dan Wilson",
+        "avatar": "avatars\/300-23.jpg",
+        "email": "dam@consilting.com",
+        "position": "Web Desinger",
+        "role": "Developer",
+        "last_login": "3 days ago",
+        "two_steps": false,
+        "joined_day": "19 Aug 2022, 10:10 pm",
+        "online": false
+    }],
+    "payload": {
+        "pagination": {
+            "page": 1,
+            "first_page_url": "\/?page=1",
+            "from": 1,
+            "last_page": 3,
+            "links": [{
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false,
+                "page": null
+            }, {
+                "url": "\/?page=1",
+                "label": "1",
+                "active": true,
+                "page": 1
+            }, {
+                "url": "\/?page=2",
+                "label": "2",
+                "active": false,
+                "page": 2
+            }, {
+                "url": "\/?page=3",
+                "label": "3",
+                "active": false,
+                "page": 3
+            }, {
+                "url": "\/?page=2",
+                "label": "Next &raquo;",
+                "active": false,
+                "page": 2
+            }],
+            "next_page_url": "\/?page=2",
+            "items_per_page": 10,
+            "prev_page_url": null,
+            "to": 10,
+            "total": 21
+        }
+    }
+}
+
+{
+    "data": [{
+        "id": 11,
+        "name": "Emma Bold",
+        "initials": {
+            "label": "E",
+            "state": "danger"
+        },
+        "email": "emma@intenso.com",
+        "position": "Corporate Finance",
+        "role": "Support",
+        "last_login": "5 hours ago",
+        "two_steps": true,
+        "joined_day": "20 Dec 2022, 11:05 am",
+        "online": true
+    }, {
+        "id": 12,
+        "name": "Ana Crown",
+        "avatar": "avatars\/300-12.jpg",
+        "email": "ana.cf@limtel.com",
+        "position": "Customer Relationship",
+        "role": "Developer",
+        "last_login": "2 days ago",
+        "two_steps": true,
+        "joined_day": "20 Dec 2022, 10:10 pm",
+        "online": false
+    }, {
+        "id": 13,
+        "name": "Robert Doe",
+        "initials": {
+            "label": "R",
+            "state": "info"
+        },
+        "email": "robert@benko.com",
+        "position": "Marketing Executive",
+        "role": "Administrator",
+        "last_login": "5 days ago",
+        "two_steps": false,
+        "joined_day": "05 May 2022, 10:30 am",
+        "online": false
+    }, {
+        "id": 14,
+        "name": "John Miller",
+        "avatar": "avatars\/300-13.jpg",
+        "email": "miller@mapple.com",
+        "position": "Project Manager",
+        "role": "Trial",
+        "last_login": "3 weeks ago",
+        "two_steps": false,
+        "joined_day": "25 Jul 2022, 11:30 am",
+        "online": false
+    }, {
+        "id": 15,
+        "name": "Lucy Kunic",
+        "initials": {
+            "label": "L",
+            "state": "success"
+        },
+        "email": "lucy.m@fentech.com",
+        "position": "SEO Master",
+        "role": "Administrator",
+        "last_login": "Yesterday",
+        "two_steps": false,
+        "joined_day": "05 May 2022, 6:05 pm",
+        "online": false
+    }, {
+        "id": 16,
+        "name": "Minnie Cooper",
+        "initials": {
+            "label": "M",
+            "state": "primary"
+        },
+        "email": "minnie.cooper@kt.com",
+        "position": "Accountant",
+        "role": "Analyst",
+        "last_login": "20 mins ago",
+        "two_steps": true,
+        "joined_day": "20 Dec 2022, 5:20 pm",
+        "online": false
+    }, {
+        "id": 17,
+        "name": "Annette Smith",
+        "avatar": "avatars\/300-14.jpg",
+        "email": "annette.smith@kt.com",
+        "position": "Accountant",
+        "role": "Developer",
+        "last_login": "3 days ago",
+        "two_steps": false,
+        "joined_day": "24 Jun 2022, 11:30 am",
+        "online": false
+    }, {
+        "id": 18,
+        "name": "Kristen Webb",
+        "avatar": "avatars\/300-18.jpg",
+        "email": "kristen.webb@dellito.com",
+        "position": "Accountant",
+        "role": "Support",
+        "last_login": "5 hours ago",
+        "two_steps": true,
+        "joined_day": "22 Sep 2022, 6:05 pm",
+        "online": false
+    }, {
+        "id": 19,
+        "name": "Vicki Moreno",
+        "avatar": "avatars\/300-22.jpg",
+        "email": "vicki.moreno@exchange.com",
+        "position": "Accountant",
+        "role": "Developer",
+        "last_login": "2 days ago",
+        "two_steps": true,
+        "joined_day": "25 Oct 2022, 10:30 am",
+        "online": false
+    }, {
+        "id": 20,
+        "name": "Lucas Hicks",
+        "initials": {
+            "label": "L",
+            "state": "danger"
+        },
+        "email": "lucas.hicks@pex.com",
+        "position": "Head Of Marketing",
+        "role": "Administrator",
+        "last_login": "5 days ago",
+        "two_steps": false,
+        "joined_day": "19 Aug 2022, 11:05 am",
+        "online": false
+    }],
+    "payload": {
+        "pagination": {
+            "page": 2,
+            "first_page_url": "\/?page=1",
+            "from": 11,
+            "last_page": 3,
+            "links": [{
+                "url": "\/?page=1",
+                "label": "&laquo; Previous",
+                "active": false,
+                "page": 1
+            }, {
+                "url": "\/?page=1",
+                "label": "1",
+                "active": false,
+                "page": 1
+            }, {
+                "url": "\/?page=2",
+                "label": "2",
+                "active": true,
+                "page": 2
+            }, {
+                "url": "\/?page=3",
+                "label": "3",
+                "active": false,
+                "page": 3
+            }, {
+                "url": "\/?page=3",
+                "label": "Next &raquo;",
+                "active": false,
+                "page": 3
+            }],
+            "next_page_url": "\/?page=3",
+            "items_per_page": 10,
+            "prev_page_url": "\/?page=1",
+            "to": 20,
+            "total": 21
+        }
+    }
+}
+
+{
+    "data": [
+        {
+        "id": 1,
+        "name": "Competitors",
+        "modelName": "competitors",
+        "force_id": 1,
+        "question": "In the industry you want to enter \/ acts are already established competitors"
+    }, {
+        "id": 2,
+        "name": "Saturation",
+        "modelName": "saturation",
+        "force_id": 1,
+        "question": "The (s) competitor (s) present can already meet the entire market"
+    }, {
+        "id": 3,
+        "name": "Competition",
+        "modelName": "competition",
+        "force_id": 1,
+        "question": "There is already an explicit competition among competitors"
+    }, {
+        "id": 4,
+        "name": "Even market",
+        "modelName": "even_market",
+        "force_id": 1,
+        "question": "You will enter the same market they"
+    }, {
+        "id": 5,
+        "name": "Diversity",
+        "modelName": "diversity",
+        "force_id": 1,
+        "question": "The diversity of these competitors is high"
+        }
+    ],
+    "links": {
+        "first": "http:\/\/127.0.0.1:8000\/api\/items?page=1",
+        "last": "http:\/\/127.0.0.1:8000\/api\/items?page=6",
+        "prev": null,
+        "next": "http:\/\/127.0.0.1:8000\/api\/items?page=2"
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 6,
+        "links": [
+            {
+            "url": null,
+            "label": "&laquo; Previous",
+            "active": false
+            },
+            {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=1",
+            "label": "1",
+            "active": true
+        }, {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=2",
+            "label": "2",
+            "active": false
+        }, {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=3",
+            "label": "3",
+            "active": false
+        }, {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=4",
+            "label": "4",
+            "active": false
+        }, {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=5",
+            "label": "5",
+            "active": false
+        }, {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=6",
+            "label": "6",
+            "active": false
+        }, {
+            "url": "http:\/\/127.0.0.1:8000\/api\/items?page=2",
+            "label": "Next &raquo;",
+            "active": false
+        }],
+        "path": "http:\/\/127.0.0.1:8000\/api\/items",
+        "per_page": 5,
+        "to": 5,
+        "total": 30
+    }
+}
+{
+    "data": [{
+        "id": 1,
+        "name": "Competitors",
+        "modelName": "competitors",
+        "force_id": 1,
+        "question": "In the industry you want to enter \/ acts are already established competitors"
+    }, {
+        "id": 2,
+        "name": "Saturation",
+        "modelName": "saturation",
+        "force_id": 1,
+        "question": "The (s) competitor (s) present can already meet the entire market"
+    }, {
+        "id": 3,
+        "name": "Competition",
+        "modelName": "competition",
+        "force_id": 1,
+        "question": "There is already an explicit competition among competitors"
+    }, {
+        "id": 4,
+        "name": "Even market",
+        "modelName": "even_market",
+        "force_id": 1,
+        "question": "You will enter the same market they"
+    }, {
+        "id": 5,
+        "name": "Diversity",
+        "modelName": "diversity",
+        "force_id": 1,
+        "question": "The diversity of these competitors is high"
+    }, {
+        "id": 6,
+        "name": "War P\/M",
+        "modelName": "war_pm",
+        "force_id": 1,
+        "question": "There is a price war or quality in the desired sector"
+    }, {
+        "id": 7,
+        "name": "Sensitivity to price",
+        "modelName": "price_sensitivity",
+        "force_id": 2,
+        "question": "Your customers are sensitive to price changes"
+    }, {
+        "id": 8,
+        "name": "Shortage of customers",
+        "modelName": "customers_shortage",
+        "force_id": 2,
+        "question": "There is a shortage of customers for your business in relation to your industry"
+    }, {
+        "id": 9,
+        "name": "loyalty",
+        "modelName": "loyalty",
+        "force_id": 2,
+        "question": "Do you have difficulty retain your customers"
+    }, {
+        "id": 10,
+        "name": "Purchase volume",
+        "modelName": "purchase_volume",
+        "force_id": 2,
+        "question": "The purchase volume of its customers is high"
+    }, {
+        "id": 11,
+        "name": "Cost exchange",
+        "modelName": "cost_exchange",
+        "force_id": 2,
+        "question": "The cost to the customer switch vendors is low"
+    }, {
+        "id": 12,
+        "name": "Customer Producer",
+        "modelName": "customer_producer",
+        "force_id": 2,
+        "question": "There is a possibility of his client to the product itself"
+    }, {
+        "id": 13,
+        "name": "Little suppliers offer",
+        "modelName": "little_offer",
+        "force_id": 3,
+        "question": "There are few suppliers to the inputs of your business"
+    }, {
+        "id": 14,
+        "name": "Price variation",
+        "modelName": "price_variation",
+        "force_id": 3,
+        "question": "The price of the supplies needed for your business varies greatly"
+    }, {
+        "id": 15,
+        "name": "Profile easy to find",
+        "modelName": "easy_find",
+        "force_id": 3,
+        "question": "The professional profile required for your business is easy to find"
+    }, {
+        "id": 16,
+        "name": "professional qualification",
+        "modelName": "pro_qualification",
+        "force_id": 3,
+        "question": "There is a lack of professional training for your market vendors"
+    }, {
+        "id": 17,
+        "name": "Supplier dependance",
+        "modelName": "supplier_dependance",
+        "force_id": 3,
+        "question": "Do you have difficulty replacing their inputs for other (quality, price, etc.)"
+    }, {
+        "id": 18,
+        "name": "Research and Innovation",
+        "modelName": "research",
+        "force_id": 3,
+        "question": "There is research to improve technology in the area of its suppliers"
+    }, {
+        "id": 19,
+        "name": "Cost to start",
+        "modelName": "start_cost",
+        "force_id": 4,
+        "question": "The cost to start a new business within its industry is low"
+    }, {
+        "id": 20,
+        "name": "Space for competitors",
+        "modelName": "competitors_space",
+        "force_id": 4,
+        "question": "There is room for more competitors outside the already established"
+    }, {
+        "id": 21,
+        "name": "Scale",
+        "modelName": "scale",
+        "force_id": 4,
+        "question": "The industry is small scale"
+    }, {
+        "id": 22,
+        "name": "Clients for exchance costs",
+        "modelName": "client_exchange_cost",
+        "force_id": 4,
+        "question": "switching costs for customers are low"
+    }, {
+        "id": 23,
+        "name": "Selling points shortage",
+        "modelName": "selling_shortage",
+        "force_id": 4,
+        "question": "There is a shortage of points of sale for this type of business"
+    }, {
+        "id": 24,
+        "name": "New technologies",
+        "modelName": "new_techs",
+        "force_id": 4,
+        "question": "There is a risk of new technologies bring down the barriers to entry"
+    }, {
+        "id": 25,
+        "name": "Direct replacements",
+        "modelName": "directs_replacements",
+        "force_id": 5,
+        "question": "There are direct replacements to your product \/ service"
+    }, {
+        "id": 26,
+        "name": "Innovative substitutes",
+        "modelName": "innovation",
+        "force_id": 5,
+        "question": "Substitute products have a high degree of innovation"
+    }, {
+        "id": 27,
+        "name": "Propensity of exchange",
+        "modelName": "exchange_propensity",
+        "force_id": 5,
+        "question": "There propensity of its customers to switch their offer by substitutes"
+    }, {
+        "id": 28,
+        "name": "Low cost change",
+        "modelName": "low_cost_change",
+        "force_id": 5,
+        "question": "The change in cost of customers to substitute is low"
+    }, {
+        "id": 29,
+        "name": "Lower Price",
+        "modelName": "lower_price",
+        "force_id": 5,
+        "question": "The price of substitute products is lower than your product or service"
+    }, {
+        "id": 30,
+        "name": "Better quality",
+        "modelName": "better_quality",
+        "force_id": 5,
+        "question": "The quality of substitute products is higher than the quality of your product or service"
+    }]
+}
