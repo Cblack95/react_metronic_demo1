@@ -48,6 +48,9 @@
     "web-vitals": "^1.0.1",
     "yup": "^0.32.9"
   },
+  "engines": {
+    "node": "14.17.3"
+  },
   "devDependencies": {
     "@testing-library/jest-dom": "5.11.4",
     "@testing-library/react": "11.1.0",
